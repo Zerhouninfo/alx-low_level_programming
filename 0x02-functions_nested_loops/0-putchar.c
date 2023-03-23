@@ -4,7 +4,6 @@
 * est écrit par mbah
 * Retour : 0
  */
-
 int  principal ( vide )
 {
 _putchar ( ' _ ' );
